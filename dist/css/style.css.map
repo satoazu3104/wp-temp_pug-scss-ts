@@ -1,0 +1,1 @@
+{"version":3,"file":"./css/style.css","mappings":";;;AAAA;EACE;ACCF,C","sources":["webpack://tstest/./src/scss/_main.scss","webpack://tstest/./src/scss/index.scss"],"sourcesContent":["body {\n  margin: 10px;\n}\n","body {\n  margin: 10px;\n}"],"names":[],"sourceRoot":""}
